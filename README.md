@@ -1,0 +1,1 @@
+1st Year Python project that tracks job listings for a recruitment agency. It allows the ability to add a job and specify pay, expierence required and whether it is full time or part time. It calculates the average hourly rate, the hourly rate range and highest paying job details from all jobs saved. The jobs are saved to two text files "part-time" and "full-time".
