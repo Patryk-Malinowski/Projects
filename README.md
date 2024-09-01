@@ -28,9 +28,3 @@ Welcome to the Job Tracker, a Python project developed during my first year! Thi
 3. **Data Storage:**
    - Jobs are automatically saved to the respective "part-time" and "full-time" text files.
 
-## How to Run:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/job-tracker.git
-   cd job-tracker
